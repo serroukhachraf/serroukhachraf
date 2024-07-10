@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Serroukh Achraf, a full stack developer 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast and a product guy. Beside's Coding, I play Vedio Games like Fifa , LoL and more. I support Real Madrid..
+Hi, I'm Serroukh Achraf, a full stack developer 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast. Beside's Coding, I play Vedio Games like Fifa , LoL and more. I support Real Madrid..
 
 
 ## 🌐 Socials:
